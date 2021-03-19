@@ -1,0 +1,16 @@
+[
+  {
+    "name":"Spells Here",
+    "desc":"This document should contain the list of all the spells to populate the app with. Licensing does not permit all of the spells to be present here, so adding them is left as an exercise to the reader.",
+    "page":"phb 1",
+    "range":"Self",
+    "components":"V",
+    "ritual":"no",
+    "duration":"Instantaneous",
+    "concentration":"no",
+    "casting_time":"1 action",
+    "level":"1th-level",
+    "school":"Conjuration",
+    "class":"Wizard"
+  }
+]

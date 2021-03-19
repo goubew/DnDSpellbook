@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DnD Spellbook</string>
+    <string name="search_hint">Enter a spell name...</string>
+    <string name="search_title">Spell Search</string>
+    <string name="hello">Hello World!</string>
+    <string name="spell_name">Spell Name: </string>
+    <string name="temporary">Sample Text</string>
+    <string name="spell_description">Description:</string>
+    <string name="higher_level_description">Higher Level:</string>
+    <string name="page_description">Page:</string>
+    <string name="range_description">Range:</string>
+    <string name="components_description">Components:</string>
+    <string name="ritual_description">Ritual:</string>
+    <string name="duration_description">Duration:</string>
+    <string name="concentration_description">Concentration:</string>
+    <string name="casting_time_description">Casting Time:</string>
+    <string name="level_description">Level:</string>
+    <string name="school_description">School:</string>
+    <string name="char_class_description">Class:</string>
+</resources>
